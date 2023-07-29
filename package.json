@@ -1,6 +1,6 @@
 {
-  "name": "jump-and-select",
-  "displayName": "Jump and select (forked)",
+  "name": "jump-and-select--forked",
+  "displayName": "Jump and select (Forked)",
   "description": "Jump or move the cursor to next or previous chosen character (with optional selection). (Forked for improvements)",
   "version": "0.0.43",
   "publisher": "Topech",
